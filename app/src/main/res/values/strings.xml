@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Moviz</string>
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="sub_title_now_playing">Lebih mudah untuk melihat \n film yang sedang tayang</string>
 </resources>
