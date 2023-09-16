@@ -4,4 +4,13 @@
     <string name="lanjutkan">Lanjutkan</string>
     <string name="now_playing">Now Playing</string>
     <string name="sub_title_now_playing">Lebih mudah untuk melihat \n film yang sedang tayang</string>
+    <string name="pre_sale">Pre Sale</string>
+    <string name="sub_title_presale">TIdak takut ketinggalan \n update film terbaru</string>
+    <string name="cahsless">Cahsless</string>
+    <string name="sub_title_cashless">Gunakan E-wallet untuk \n transaksi tiket nonton</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username_hint">Username</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Password</string>
+    <string name="username">Username</string>
 </resources>
