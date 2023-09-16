@@ -13,4 +13,9 @@
     <string name="password">Password</string>
     <string name="password_hint">Password</string>
     <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Nama</string>
+    <string name="name_hint">Nama</string>
+    <string name="email_hint">email@mail.com</string>
+    <string name="email">Email</string>
 </resources>
