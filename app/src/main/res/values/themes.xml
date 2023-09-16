@@ -3,7 +3,11 @@
     <style name="Base.Theme.Moviz" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:fontFamily">@font/montserat_reg</item>
     </style>
 
-    <style name="Theme.Moviz" parent="Base.Theme.Moviz" />
+    <style name="Theme.Moviz" parent="Base.Theme.Moviz" >
+        <item name="android:fontFamily">@font/montserat_reg</item>
+    </style>
+
 </resources>
