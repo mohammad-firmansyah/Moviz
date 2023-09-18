@@ -22,4 +22,7 @@
     <string name="welcome">Welcome, \n Angga Risky</string>
     <string name="simpan_dan_lanjutkan">Simpan dan Lanjutkan</string>
     <string name="lewati">Lewati</string>
+    <string name="nama_pengguna">Angga Risky</string>
+    <string name="balance">IDR 250.000</string>
+    <string name="coming_soon">Coming Soon</string>
 </resources>
