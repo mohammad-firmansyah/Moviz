@@ -28,4 +28,11 @@
     <string name="storyboard_title">Storyboard</string>
     <string name="who_played_title">Who\'s Played</string>
     <string name="pilih_bangku">Pilih Bangku</string>
+    <string name="pilih_bangku_2">Pilih Bangku</string>
+    <string name="allisa_battle">Allisa Battle</string>
+    <string name="layar_bioskop">Layar Bioskop</string>
+    <string name="beli_tiket">Beli Tiket</string>
+    <string name="checkout">Checkout</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="history">History</string>
 </resources>
